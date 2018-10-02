@@ -4,8 +4,8 @@ red
 blue
 green
 unicorn
-ponies
 violet
+ponies
 yellow
 orange
 pink
