@@ -1,9 +1,10 @@
-This is Rainbow Poem and the unicorn
+This is Rainbow Poem and the unicorn and ponies
 
 red 
 blue
 green
 unicorn
+ponies
 violet
 yellow
 orange
@@ -11,3 +12,4 @@ pink
 
 These are the colours of my rainbow
 And the Unicorn.
+And the ponies.
