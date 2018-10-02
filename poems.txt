@@ -1,11 +1,13 @@
-This is Rainbow Poem
+This is Rainbow Poem and the unicorn
 
 red 
 blue
 green
+unicorn
 violet
 yellow
 orange
 pink
 
 These are the colours of my rainbow
+And the Unicorn.
